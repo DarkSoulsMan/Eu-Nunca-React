@@ -51,7 +51,7 @@ function ParagrafoApresentacao(){
         <ParagrafoContainer>
             <Titulo>Bem-vindo ao "Eu Nunca" 🎉</Titulo>
             <Conteudo>Este site foi criado como um projeto pessoal para unir aprendizado em programação e diversão. Aqui você pode jogar “Eu Nunca” em diferentes categorias e 
-                descobrir frases aleatórias que deixam o jogo ainda mais interessante.
+                descobrir frases aleatórias que deixam o jogo ainda mais interessante e intenso.
                 Divirta-se e jogue com os amigos! 🚀
             </Conteudo>
             <Link to={`/jogo`}>
